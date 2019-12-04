@@ -7,8 +7,11 @@ import com.example.authtry.repository.QuestionRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+
+import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
 
 @RestController
@@ -17,7 +20,14 @@ public class QuestionController {
     @Autowired
     private QuestionRepository questionRepository;
 
-    @GetMapping("/questions")
+    @RequestMapping("/logout")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public void logout(HttpSession session) {
+        session.invalidate();
+    }
+
+
+    @GetMapping("/")
     public Page<Question> getQuestions(Pageable pageable) {
         return questionRepository.findAll(pageable);
     }

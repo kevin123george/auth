@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e431926-2c01-46cc-9897-1edf41afe7ff" name="Default Changelist" comment="" />
+    <list default="true" id="0e431926-2c01-46cc-9897-1edf41afe7ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/AuthtryApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/AuthtryApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/controller/QuestionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/controller/QuestionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/authtry/AuthtryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/authtry/AuthtryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/authtry/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/authtry/controller/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +52,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UVGaf2KldczeligFgj5Zk2jhH7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,8 +64,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../q" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.authtry" />
+      <recent name="" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="AuthtryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -88,21 +120,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="164" key="GridCell.Tab.0.bottom" timestamp="1575438421234">
+    <state x="289" y="27" width="777" height="706" key="CommitChangelistDialog2" timestamp="1575452615282">
       <screen x="0" y="27" width="1366" height="706" />
     </state>
-    <state width="1320" height="164" key="GridCell.Tab.0.bottom/0.27.1366.706@0.27.1366.706" timestamp="1575438421234" />
-    <state width="1320" height="164" key="GridCell.Tab.0.center" timestamp="1575438421231">
+    <state x="289" y="27" width="777" height="706" key="CommitChangelistDialog2/0.27.1366.706@0.27.1366.706" timestamp="1575452615282" />
+    <state x="466" y="137" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575453292331">
       <screen x="0" y="27" width="1366" height="706" />
     </state>
-    <state width="1320" height="164" key="GridCell.Tab.0.center/0.27.1366.706@0.27.1366.706" timestamp="1575438421231" />
-    <state width="1320" height="164" key="GridCell.Tab.0.left" timestamp="1575438421230">
+    <state x="466" y="137" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.706@0.27.1366.706" timestamp="1575453292331" />
+    <state width="1320" height="112" key="GridCell.Tab.0.bottom" timestamp="1575454917437">
       <screen x="0" y="27" width="1366" height="706" />
     </state>
-    <state width="1320" height="164" key="GridCell.Tab.0.left/0.27.1366.706@0.27.1366.706" timestamp="1575438421230" />
-    <state width="1320" height="164" key="GridCell.Tab.0.right" timestamp="1575438421232">
+    <state width="1320" height="112" key="GridCell.Tab.0.bottom/0.27.1366.706@0.27.1366.706" timestamp="1575454917437" />
+    <state width="1320" height="112" key="GridCell.Tab.0.center" timestamp="1575454917437">
       <screen x="0" y="27" width="1366" height="706" />
     </state>
-    <state width="1320" height="164" key="GridCell.Tab.0.right/0.27.1366.706@0.27.1366.706" timestamp="1575438421232" />
+    <state width="1320" height="112" key="GridCell.Tab.0.center/0.27.1366.706@0.27.1366.706" timestamp="1575454917437" />
+    <state width="1320" height="112" key="GridCell.Tab.0.left" timestamp="1575454917437">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1320" height="112" key="GridCell.Tab.0.left/0.27.1366.706@0.27.1366.706" timestamp="1575454917437" />
+    <state width="1320" height="112" key="GridCell.Tab.0.right" timestamp="1575454917437">
+      <screen x="0" y="27" width="1366" height="706" />
+    </state>
+    <state width="1320" height="112" key="GridCell.Tab.0.right/0.27.1366.706@0.27.1366.706" timestamp="1575454917437" />
   </component>
 </project>
